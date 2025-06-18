@@ -8,4 +8,4 @@ Partition an array into the minimum number of contiguous subarrays such that, in
 - **Space:** O(n)
 
 ## License
-MIT © Bao Ngoc Nguyen & Meng-Chieh Chiu
+MIT © Bao Ngoc Nguyen
